@@ -1,0 +1,2 @@
+# -bitcoin-miners
+script free
